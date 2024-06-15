@@ -1,1 +1,2 @@
 # RitzyFirebase
+# Added new version
