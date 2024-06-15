@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">370640620514</string>
+  <string name="google_storage_bucket" translatable="false">studytime-b6548.appspot.com</string>
+  <string name="project_id" translatable="false">studytime-b6548</string>
+  <string name="google_api_key" translatable="false">AIzaSyC-FPQOLhKGdLJOqMoFYUJndr-t4GMqlWk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-FPQOLhKGdLJOqMoFYUJndr-t4GMqlWk</string>
+  <string name="google_app_id" translatable="false">1:370640620514:android:2909152499d8a9247a07bb</string>
+  <string name="default_web_client_id" translatable="false">370640620514-83icfpkl8prhut90ik333i4g4lkq0vmj.apps.googleusercontent.com</string>
+</resources>
